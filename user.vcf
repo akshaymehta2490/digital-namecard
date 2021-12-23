@@ -11,4 +11,5 @@ item1.ADR;type=WORK;type=pref:;;331, Ashoka Haveli, Gadiya Devra Marg, Ghangaur 
 item1.X-ABADR:sg
 item2.URL;type=pref:ashokahaveli.com
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:instagram.com/theashokaarts
 END:VCARD
